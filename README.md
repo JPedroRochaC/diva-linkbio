@@ -18,7 +18,7 @@ A página apresenta a marca, seus canais de atendimento e avaliações de client
 - Link para feedbacks publicados no Instagram
 - Botão nativo de compartilhamento
 - Imagem personalizada ao compartilhar o link
-- Animações suaves e estrelas decorativas no fundo
+- Animações suaves e fundo em gradiente
 - Layout responsivo para celular, tablet e computador
 - Imagens otimizadas em WebP
 
